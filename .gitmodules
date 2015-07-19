@@ -1,6 +1,6 @@
 [submodule "deps/opencv"]
 	path = deps/opencv
 	url = https://github.com/Itseez/opencv.git
-[submodule "deps/dj"]
-	path = deps/dj
-	url = git@github.com:JasonL9000/dj.git
+[submodule "deps/ib"]
+	path = deps/ib
+	url = https://github.com/JasonL9000/ib.git
